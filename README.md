@@ -61,10 +61,3 @@ await agent.swap({
 Testnet (full support)
 Mainnet (transactions)
 
-📚 Documentation
-See the /docs directory:
-
-docs/overview.md
-
-docs/sdk.md
-
